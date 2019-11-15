@@ -1,8 +1,8 @@
 name: sms
-description: SMS library for Flutter applications. Its allow to send, receive, query sms messages, sms delivery and query contacts info. It exposes an easy and friendly API for developing a completely functional sms app in Flutter.
+description: forked from babariviere/flutter_sms，SMS library for flutter, 修复国内短信内容超过70个文字发送失败的问题
 version: 0.2.4
-author: "babariviere <babathriviere@gmail.com>"
-homepage: "https://github.com/babariviere/flutter_sms"
+author: "wangwei <2531868871@qq.com>"
+homepage: "https://github.com/wangwei123/flutter_sms_zh"
 
 dependencies:
   flutter:
